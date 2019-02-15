@@ -639,6 +639,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6554069654066495578, guid: 88d6706bb5669974898f0f9a404ef2c8,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.75
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 88d6706bb5669974898f0f9a404ef2c8, type: 3}
 --- !u!4 &7599612952561375344 stripped
@@ -939,6 +944,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6554069654066495578, guid: 88d6706bb5669974898f0f9a404ef2c8,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3.75
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 88d6706bb5669974898f0f9a404ef2c8, type: 3}
 --- !u!4 &7599612953336848097 stripped
@@ -1012,6 +1022,11 @@ PrefabInstance:
     - target: {fileID: 6554069654066495578, guid: 88d6706bb5669974898f0f9a404ef2c8,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223340452929831181, guid: 88d6706bb5669974898f0f9a404ef2c8,
+        type: 3}
+      propertyPath: m_DynamicOccludee
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1238,6 +1253,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5393574265527450900, guid: a8e44c9703850e64f9c10cffd6f4a273,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5393574265527450900, guid: a8e44c9703850e64f9c10cffd6f4a273,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8e44c9703850e64f9c10cffd6f4a273, type: 3}
